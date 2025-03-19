@@ -1,11 +1,26 @@
-### Oi! Eu sou a julia Gabriele 🖐️
-![Julia Github stats](https://github-readme-stats.vercel.app/api?username=Julia2830&show_icons=true&theme=radical)]
-### Tecnologias que eu estou aprendendo!
-<div style="display: inline_block"></br>
-<img align="center" alt="hltml5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img align="center" alt="java" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</div></br>
-Seja paciente,persistente,dedicado e nunca subestime o poder do seu potencial. Cada linha 
-de código que você escreve é um passo em direção ao seu sucesso.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B208E4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E616A9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Julia+Gabriele+Rodrigues;I+study+analysis+and+systems+development+at+IFTM;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
+<div align="center">  
+ 
+  <img width="49%" height="193px"  src="https://github-readme-stats.vercel.app/api?username=Juli-Gabriele&show_icons=true&theme=ambient_gradient&count_private=true&include_all_commits=true" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juli-Gabriele&langs_count=12&layout=compact&theme=ambient_gradient" />
+  </a>
+</div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Juli-gabriele&bg_color=B208E4color=530B5A&line=F198E9&point=B31895&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align="center">📌 Repositórios </h2>
+
+<div align="center">
+  <a https://github.com/Juli-Gabriele/Conceito-de-Algoritmo-ASD-1P-IFTM>
+    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Juli-Gabriele&repo=Conceito-de-Algoritmo-ASD-1P-IFTM&theme=ambient_gradient" />
+  </a>
+</div>
+
+ 
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B208E4&height=120&section=footer"/>
+
