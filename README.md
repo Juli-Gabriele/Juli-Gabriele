@@ -14,10 +14,10 @@
 <h2 align="center">📌 Repositórios </h2>
 
 <div align="center">
-  <a https://github.com/Juli-Gabriele/Conceito-de-Algoritmo-ASD-1P-IFTM">
+  <a "https://github.com/Juli-Gabriele/Conceito-de-Algoritmo-ASD-1P-IFTM">
     <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Juli-Gabriele&repo=Conceito-de-Algoritmo-ASD-1P-IFTM&theme=ambient_gradient" />
   </a>
-    <a https://github.com/Juli-Gabriele/Exercicios_Becrwond">
+    <a "https://github.com/Juli-Gabriele/Exercicios_Becrwond">
      <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Juli-Gabriele&repo=Exercicios_becrwond&theme=ambient_gradient" />
  
   </a>
