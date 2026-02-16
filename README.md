@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E616A9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Julia+Gabriele+Rodrigues;I+study+analysis+and+systems+development+at+IFTM;Be+Welcome!:%29)](https://git.io/typing-svg) 
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img height="290em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juli-Gabriele&theme=buefy" />
-  <img height="290em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juli-Gabriele&theme=buefy" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juli-Gabriele&theme=buefy" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juli-Gabriele&theme=buefy" />
 </div>
 
 <br>
