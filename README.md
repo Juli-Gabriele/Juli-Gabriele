@@ -14,14 +14,34 @@
 
 <br>
 
-<div align="center">
+
 
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </h3>
   
-  <img width="736" height="740" alt="image" src="https://github.com/user-attachments/assets/d1ecfa72-1871-4bfe-995f-6547c46b6693" />
-</div>
+  <img width="336" height="340" alt="image" src="https://github.com/user-attachments/assets/fdab832d-7654-4c26-8a0d-172292cc34ee" width="320" align="right" />
+
+### 👩‍💻 Sobre Mim
+
+🎯 Estudante de **Análise e Desenvolvimento de Sistemas** no IFTM.
+* 📚 No momento, focado em **Full Stack**: da performance do **C/C++** à robustez do **Java**.
+* 💻 Desenvolvimento de interfaces modernas e dinâmicas com **Angular**.
+* 🗄️ Praticando modelagem e consultas avançadas em **MySQL**.
+
+#### 🎯 Foco Atual
+
+* 🚀 **Backend:** Evoluindo em Java e lógica de baixo nível (C/C++).
+* 🎨 **Frontend:** Aplicações SPA com Angular.
+* 📊 **Dados:** Joins, subconsultas e otimização no MySQL.
+
+
+
+<br clear="right">
+
+---
+  
+
 
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
